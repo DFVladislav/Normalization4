@@ -213,22 +213,13 @@ rm general_raw.log
 
 ## Скриншоты
 
-Сделать скриншоты выводов (Win+Shift+S) и положить в корень репозитория под этими именами:
+<img width="704" height="336" alt="изображение" src="https://github.com/user-attachments/assets/5af8b8e9-ee1f-45b0-b7bb-c270c88a2979" />
+<img width="699" height="337" alt="изображение" src="https://github.com/user-attachments/assets/65c4704b-3fca-4951-813e-06a927e6e2cc" />
+<img width="695" height="183" alt="изображение" src="https://github.com/user-attachments/assets/bd144ce7-5395-428b-88c8-14c82f0f8723" />
+<img width="705" height="337" alt="изображение" src="https://github.com/user-attachments/assets/867e9500-acb4-4c37-94e6-65965b9fecaa" />
+<img width="695" height="351" alt="изображение" src="https://github.com/user-attachments/assets/46ca3a29-f1f0-466e-acb9-af669dd37be5" />
 
-| Файл | Что снять |
-|---|---|
-| `image.png` | Шаг 4: создание базы и таблицы `orders_bad` |
-| `image-1.png` | Шаг 5: аномалии обновления/вставки/удаления |
-| `image-2.png` | Шаг 7: создание таблиц 3НФ и перенос |
-| `image-3.png` | Шаг 8: проверки (суммы, количества, `missing/extra = 0`, список таблиц) |
-| `image-4.png` | Шаг 10: `my_actions.log` |
 
-После добавления снимков вставьте их в конец файла:
 
-```markdown
-![Исходная таблица orders_bad](image.png)
-![Демонстрация аномалий](image-1.png)
-![Таблицы 3НФ и перенос данных](image-2.png)
-![Проверка сохранности данных](image-3.png)
-![Экспортированный SQL-лог действий](image-4.png)
-```
+
+
